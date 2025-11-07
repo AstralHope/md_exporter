@@ -20,7 +20,7 @@ lxml>=6.0.1
 python-pptx~=1.0.2
 
 # for markdown to png
-PyMuPDF~=1.26.4
+PyMuPDF~=1.26.0
 pillow~=12.0.0
 
 # pandoc
